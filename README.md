@@ -1,9 +1,7 @@
 Portable Runtime Builder
-
 ------------------------------
 
 Portable Runtime Builder is buils system for runtime embedded command-line tools.
-
 
 
 # Overview
